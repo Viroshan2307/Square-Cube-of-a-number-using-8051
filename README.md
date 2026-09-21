@@ -39,9 +39,8 @@ END
 ```
 
 ## OUTPUT
-Input: 05H Square: 05H × 05H = 19H
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8cea3e4b-2a5b-4f56-b733-25e4eb99dc9b" />
 
-P0 = 05H P2 = 19H
 
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
@@ -102,9 +101,8 @@ END
 ## OUTPUT
 OUTPUT
 
-Input: 05H Cube: 05H × 05H × 05H = 7DH
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59ca6f3d-df75-4c64-80aa-a4036efc72f4" />
 
-P0 = 05H Cube = 00007DH
 
 Output bytes:
 
